@@ -1,0 +1,8 @@
+C:\Users\thebe\Documents\GitHub\Week6NewAssignment\bin\Debug\Week6NewAssignment.exe.config
+C:\Users\thebe\Documents\GitHub\Week6NewAssignment\bin\Debug\Week6NewAssignment.exe
+C:\Users\thebe\Documents\GitHub\Week6NewAssignment\bin\Debug\Week6NewAssignment.pdb
+C:\Users\thebe\Documents\GitHub\Week6NewAssignment\obj\Debug\Week6NewAssignment.csproj.AssemblyReference.cache
+C:\Users\thebe\Documents\GitHub\Week6NewAssignment\obj\Debug\Week6NewAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\thebe\Documents\GitHub\Week6NewAssignment\obj\Debug\Week6NewAssignment.csproj.CoreCompileInputs.cache
+C:\Users\thebe\Documents\GitHub\Week6NewAssignment\obj\Debug\Week6NewAssignment.exe
+C:\Users\thebe\Documents\GitHub\Week6NewAssignment\obj\Debug\Week6NewAssignment.pdb
